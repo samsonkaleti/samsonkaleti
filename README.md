@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **kaletishyam@gmail.com**
 
-- 📄 Know about my experiences [file:///D:/Sam/KALETI%20SAMSONccbptech4.0%20intensive.pdf](file:///D:/Sam/KALETI%20SAMSONccbptech4.0%20intensive.pdf)
+- 📄 Know about my experiences [https://s3-ap-south-1.amazonaws.com/nkb-backend-ccbp-media-static/ccbp_prod/media/resume_generated/samson__2023-04-05-144919.pdf](https://s3-ap-south-1.amazonaws.com/nkb-backend-ccbp-media-static/ccbp_prod/media/resume_generated/samson__2023-04-05-144919.pdf)
 
 - ⚡ Fun fact **chill bro ... 😂😂😂**
 
