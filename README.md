@@ -90,5 +90,5 @@
 ### ⚡ Fun Fact
 
 <p>
-💡 I don’t just code — I design scalable systems and solve real-world problems 🚀
+💡 I don’t just code, I design scalable systems and solve real-world problems 🚀
 </p>
