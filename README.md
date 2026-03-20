@@ -28,7 +28,7 @@
 ### 🚀 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,nodejs,express,mongodb,postgres,python,fastapi,tailwind,docker,aws,git,github" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,nodejs,express,mongodb,postgres,python,fastapi,tailwind,docker,aws,git,github,linux,gcp" />
 </p>
 
 ---
@@ -45,52 +45,6 @@
 <img src="https://img.shields.io/badge/MongoDB-Data%20Storage-green?style=for-the-badge&logo=mongodb"/>
   
 </p>
-
----
-
-### 🧠 What I’ve Built / Explored
-
-<ul>
-<li>⚡ Built backend services integrating <b>OpenAI APIs</b> using <b>FastAPI</b> & <b>Node.js</b></li>
-<li>🔗 Worked with <b>LangChain</b> for building agent-based workflows</li>
-<li>🔄 Automated workflows using <b>n8n (webhooks, triggers, API orchestration)</b></li>
-<li>📊 Designed scalable APIs for AI-powered applications</li>
-<li>🧩 Integrated AI into real-world systems (healthcare workflows, automation tools)</li>
-</ul>
-
----
-
-### 🚀 Agentic Capabilities
-
-<ul>
-<li>🤖 Multi-step task execution using AI agents</li>
-<li>🔍 Context handling & prompt engineering</li>
-<li>📡 API chaining & tool usage</li>
-<li>⚙️ Workflow automation with external services</li>
-<li>🧠 Memory-based interactions (basic level)</li>
-</ul>
-
----
-
-### 📘 Learning & Improving
-
-<ul>
-<li>📚 Advanced <b>Agentic AI architectures</b></li>
-<li>🧠 RAG (Retrieval-Augmented Generation)</li>
-<li>🗂️ Vector databases & embeddings</li>
-<li>☁️ Deploying AI apps on cloud (AWS)</li>
-</ul>
-
----
-
-### 🧪 Sample Use Cases
-
-<ul>
-<li>📝 AI-powered workflow assistant for incident logging</li>
-<li>📊 Smart automation pipelines using n8n + AI</li>
-<li>💬 Chat-based interfaces for internal tools</li>
-</ul>
-
 
 ### 🔥 Featured Projects
 
