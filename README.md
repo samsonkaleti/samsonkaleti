@@ -28,7 +28,7 @@
 ### 🚀 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgres,python,fastapi,tailwind,docker,aws,git,saviynt" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,nodejs,express,mongodb,postgres,python,fastapi,tailwind,docker,aws,git,github" />
 </p>
 
 ---
@@ -43,6 +43,7 @@
 <img src="https://img.shields.io/badge/Python-AI%20Integration-yellow?style=for-the-badge&logo=python"/>
 <img src="https://img.shields.io/badge/PostgreSQL-Vector%20DB-blue?style=for-the-badge&logo=postgresql"/>
 <img src="https://img.shields.io/badge/MongoDB-Data%20Storage-green?style=for-the-badge&logo=mongodb"/>
+  
 </p>
 
 ---
