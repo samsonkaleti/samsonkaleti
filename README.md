@@ -1,36 +1,94 @@
-<h1 align="center">Hi 👋, I'm samson kaleti</h1>
-<h3 align="center">A passionate frontend developer from India</h3> 
-<img align = "right" alt = "codingimg" width = '400' src = "https://d1ivubrj2a21dq.cloudfront.net/wp-content/uploads/2023/01/02152015/front-end-development.gif"/>
+<h1 align="center">Hi 👋, I'm Samson Kaleti</h1>
+<h3 align="center">🚀 Full Stack MERN Developer | Lead Developer | AI Explorer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samsonkaleti&label=Profile%20views&color=0e75b6&style=flat" alt="samsonkaleti" /> </p>
-
-- 🌱 I’m currently learning **React.js, Redux and More...**
-
-- 👯 I’m looking to collaborate on **React.js projects**
-
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/samsonkaleti](https://www.linkedin.com/in/samsonkaleti)
-
-- 💬 Ask me about **React.js, JavaScript, Python, Sql, Html, Css and More...**
-
-- 📫 How to reach me **kaletishyam@gmail.com**
-
-- 📄 Know about my experiences [https://s3-ap-south-1.amazonaws.com/nkb-backend-ccbp-media-static/ccbp_prod/media/resume_generated/samson__2023-04-05-144919.pdf](https://s3-ap-south-1.amazonaws.com/nkb-backend-ccbp-media-static/ccbp_prod/media/resume_generated/samson__2023-04-05-144919.pdf)
-
-- ⚡ Fun fact **chill bro ... 😂😂😂**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/samsonkaleti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/samsonkaleti" height="30" width="40" /></a>
-<a href="[https://fb.com/samsonkaleti](https://www.facebook.com/profile.php?id=100005905759076)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samsonkaleti" height="30" width="40" /></a>
-<a href="https://instagram.com/k_shyam__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="k_shyam__" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/samsonkaleti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="samsonkaleti" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+Stack+Expert;Building+Scalable+Apps;Exploring+AI+%26+Agentic+Systems&center=true&width=500&height=50">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+<img align="right" alt="coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samsonkaleti&show_icons=true&locale=en&layout=compact" alt="samsonkaleti" /></p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=samsonkaleti&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samsonkaleti&show_icons=true&locale=en" alt="samsonkaleti" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samsonkaleti&" alt="samsonkaleti" /></p>
+### 🧑‍💻 About Me
+
+<ul>
+<li>💼 Full Stack Developer with <b>3+ years of experience</b></li>
+<li>🏥 Lead Developer working on <b>US-based healthcare applications</b></li>
+<li>⚡ Specialized in <b>MERN Stack & Next.js</b></li>
+<li>🤖 Currently exploring <b>Agentic AI, LangChain & Automation (n8n)</b></li>
+<li>🌍 Actively looking for <b>Remote / US opportunities</b></li>
+</ul>
+
+---
+
+### 🚀 Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgres,python,fastapi,tailwind,docker,aws,git" />
+</p>
+
+---
+
+### 🔥 Featured Projects
+
+<ul>
+<li><b>🛒 Medusa E-commerce Platform</b> – Admin dashboard + storefront with scalable architecture</li>
+<li><b>🏥 Healthcare Workflow System</b> – Multi-phase workflows, automation, incident logging</li>
+<li><b>🎨 Customized Design Platform</b> – Dynamic UI builder with cart & user system</li>
+</ul>
+
+---
+
+### 📈 GitHub Stats
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=samsonkaleti&show_icons=true&theme=tokyonight" />
+</p>
+
+<p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=samsonkaleti&theme=tokyonight" />
+</p>
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samsonkaleti&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🏆 Achievements & Badges
+
+<p>
+<img src="https://img.shields.io/badge/Code-MERN-blue?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/AI-Learning-orange?style=for-the-badge&logo=openai"/>
+<img src="https://img.shields.io/badge/Cloud-AWS-yellow?style=for-the-badge&logo=amazonaws"/>
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p>
+<a href="https://www.linkedin.com/in/samsonkaleti">
+<img src="https://img.shields.io/badge/LinkedIn-Samson%20Kaleti-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="mailto:kaletishyam@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+<a href="https://instagram.com/k_shyam__">
+<img src="https://img.shields.io/badge/Instagram-Follow-purple?style=for-the-badge&logo=instagram"/>
+</a>
+</p>
+
+---
+
+### ⚡ Fun Fact
+
+<p>
+💡 I don’t just code — I design scalable systems and solve real-world problems 🚀
+</p>
