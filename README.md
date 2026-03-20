@@ -28,7 +28,7 @@
 ### 🚀 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgres,python,fastapi,tailwind,docker,aws,git" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgres,python,fastapi,tailwind,docker,aws,git,saviynt" />
 </p>
 
 ---
